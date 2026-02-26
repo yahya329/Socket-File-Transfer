@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyServer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\VS.Net\\MyServer\\test.txt"
+    }
+  }
+}
